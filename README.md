@@ -22,7 +22,7 @@
 
   System Requirements
   -------------------
-  JDK 1.7+
+  JDK 1.8+
 
 
   Building PASH Viewer
@@ -35,9 +35,9 @@
   Running PASH Viewer
   ----------------
   1) Unpack the archive, eg:
-      unzip PASH-Viewer-0.3.zip
+      unzip PASH-Viewer-0.4.4.zip
 
-  2) A directory called "PASH-Viewer-0.3" will be created.
+  2) A directory called "PASH-Viewer-0.4.4" will be created.
 
   3) Make sure JAVA_HOME is set to the location of your JDK, 
   	  see run.cmd/run.sh (on Windows/Unix platform).
@@ -50,6 +50,6 @@
    Please see the file called LICENSE
 
 
-   PASH Viewer URL
+   PASH Viewer original URL
    ----------
    https://github.com/dbacvetkov/PASH-Viewer
