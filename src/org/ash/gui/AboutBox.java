@@ -138,7 +138,7 @@ public class AboutBox extends JDialog implements ActionListener {
     panel1.setLayout(borderLayout1);
     panel2.setLayout(gridBagLayout1);
     label1.setFont(new java.awt.Font("Dialog", 1, 11));
-    label1.setText("PASH Viewer 0.4.2");
+    label1.setText("PASH Viewer 0.4.4");
     label2.setText("released under GNU GPL License");
     label3.setText("Copyright (C) 2009 Alex Kardapolov");
     label4.setText("Rewrited for PostgreSQL by Dmitry Tsvetkov");
