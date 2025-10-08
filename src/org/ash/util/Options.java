@@ -49,7 +49,7 @@ public class Options {
 
   /** The db version. */
   private String versionDb;
-  private Boolean ASHsupport;
+  private Boolean ASHsupport = false;
 
   /** The language. */
   private String language = null;
